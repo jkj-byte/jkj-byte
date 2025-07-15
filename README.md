@@ -25,7 +25,9 @@ A C project (add a short description of what it does).
 - LinkedIn: [https://www.linkedin.com/in/joel-k-joseph-0589a9254/]
 
 ## ⚡ Fun fact
-Add something unique or fun about yourself!
+🎵 I listen to lo-fi beats while debugging.
+🧩 I love solving logic puzzles and brain teasers.
+🐍 Python was my first programming language, but I love exploring new ones.
 
 ---
 
