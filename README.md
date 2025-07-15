@@ -21,8 +21,8 @@ A smart meal planning app built with Dart.
 A C project (add a short description of what it does).
 
 ## 📫 How to reach me
-- Email: [your-email@example.com]
-- LinkedIn: [your-linkedin-profile]
+- Email: [joeljoseph8v5@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/joel-k-joseph-0589a9254/]
 
 ## ⚡ Fun fact
 Add something unique or fun about yourself!
