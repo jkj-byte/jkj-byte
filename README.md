@@ -29,9 +29,9 @@ Welcome to my GitHub profile!
 - 📅 Helps users save time and eat better
 
 ### [s6](https://github.com/jkj-byte/s6)
-**A C project focused on system-level programming.**
-- ⚙️ Implements efficient algorithms and data structures
-- 🧩 Explores low-level computing concepts
+**A collection of C programs developed as part of my Semester 6 coursework.**
+- ⚙️ Includes system-level programming assignments
+- 🧩 Explores low-level computing concepts and algorithms
 
 ---
 
@@ -66,9 +66,8 @@ Welcome to my GitHub profile!
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jkj-byte&show_icons=true&theme=radical)
+## 🌱 My GitHub Journey
+I’m just getting started on GitHub and excited to grow my portfolio, contribute to open source, and connect with fellow developers. Stay tuned for more projects and updates!
 
 ---
 
